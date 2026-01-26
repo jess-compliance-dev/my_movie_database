@@ -15,7 +15,7 @@
 
 ## Technologies
 Project is created with:
-* Python version: 3.11+
+* Python version: 3.14
 * Standard Python libraries: `random`, `os`
 * Local JSON-based storage (`movie_storage.py`) for persistent data management
 
